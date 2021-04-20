@@ -1,0 +1,8 @@
+﻿  Mapa.cpp
+C:\Users\Marco Esparza\Documents\UAD\Clases\2do cuatri\Progra\Proyecto_final\Proyecto_final\Mapa.cpp(10,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Marco Esparza\Documents\UAD\Clases\2do cuatri\Progra\Proyecto_final\Proyecto_final\Mapa.cpp(45,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Marco Esparza\Documents\UAD\Clases\2do cuatri\Progra\Proyecto_final\Proyecto_final\Mapa.cpp(74,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Marco Esparza\Documents\UAD\Clases\2do cuatri\Progra\Proyecto_final\Proyecto_final\Mapa.cpp(118,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Marco Esparza\Documents\UAD\Clases\2do cuatri\Progra\Proyecto_final\Proyecto_final\Mapa.cpp(162,21): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\Marco Esparza\Documents\UAD\Clases\2do cuatri\Progra\Proyecto_final\Proyecto_final\Mapa.cpp(221,21): warning C4018: '<': no coinciden signed/unsigned
+  Proyecto_final.vcxproj -> C:\Users\Marco Esparza\Documents\UAD\Clases\2do cuatri\Progra\Proyecto_final\Debug\Proyecto_final.exe

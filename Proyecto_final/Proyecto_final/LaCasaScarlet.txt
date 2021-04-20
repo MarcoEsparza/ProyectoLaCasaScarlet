@@ -1,0 +1,27 @@
+La casa Scarlet
+Eres un universitario, el edificio en el que se encuentra tu apartamento va a ser demolido por
+lo que tienes que encontrar un nuevo hogar.
+Encuentras una pequenia casa con un precio de renta de 600 pesos, muy barato, por lo que decides
+investigar sobre ella. Descubres que tiene ese precio porque nadie la renta, al parecer la casa
+pertenecio a un hombre llamado William Scarlet, quien realizaba rituales satanicos dentro de la
+casa y un dia misteriosamente desaparecio. Se dice que cualquier persona que viva ahi morira al
+sexto dia.
+Piensas que son tonterias y decides rentarla por su bajo precio, al cabo si la leyenda es cierta
+solo tienes que evitar estar ahi el sexto dia.
+La casa tiene 6 cuartos: el recibidor, la cocina, el comedor, la sala, el banio y la recamara, no
+es muy grande pero realmente deberia costar mas.
+Han pasado los dias y haz estado muy a gusto en tu nuevo hogar, en la noche del quinto dia decides
+que te iras de la casa por si las dudas, pero te entretienes terminando los proyectos de la clase
+del profe Yeipi y te quedas dormido. Al despertar notas un olor como a azufre, miras el reloj y
+son las 8 p.m. del sexto dia - como dormi tanto? - piensas y decides andar por la casa.
+	_____________   ____________
+	|        |         |       |
+	|  Banio  Recibidor  Cocina|
+	|___  ___|___  ____|       |
+	|        |          ___  __|
+	|Recamara|  Sala   |       |
+	|                   Comedor|
+	|________|_________|_______|
+
+Este es el mapa de la casa, memorizalo bien
+Para moverte solo tienes que escribir el nombre del cuarto al que quieres ir.
